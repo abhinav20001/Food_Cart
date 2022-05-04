@@ -13,21 +13,16 @@ The project uses Getx for managing navigations within the app:
 ## Getting Started
 If you are new to flutter, you can use the below resources to get started with flutter.
 
-##Screenshots
+## Screenshots
 - Home Screen
-  ![home screen](ss1.jpg?raw=true "Home Screen" )
+- Cart History Screen
+- Order Placing Screen
+  ![home screen](ss1.png?raw=true "Home Screen" )
 
 - SignUp Screen
-  ![home screen](ss2.jpg?raw=true "SignUp Screen")
-
 - SignIn Screen
-  ![home screen](ss3.jpg?raw=true "SignIn Screen")
-
 - Cart History Screen
-  ![home screen](ss4.jpg?raw=true "Cart History Screen")
-
-- Order Placing Screen
-  ![home screen](ss5.jpg?raw=true "Order Placing Screen")
+  ![home screen](ss2.png?raw=true "Order Placing Screen")
   
 ##Created And Maintained by
 Abhinav Kumar
